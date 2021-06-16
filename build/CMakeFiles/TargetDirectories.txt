@@ -1,0 +1,3 @@
+/home/simon/Udacity/C++ Nanodegree/Project/build/CMakeFiles/rebuild_cache.dir
+/home/simon/Udacity/C++ Nanodegree/Project/build/CMakeFiles/ui.dir
+/home/simon/Udacity/C++ Nanodegree/Project/build/CMakeFiles/edit_cache.dir
